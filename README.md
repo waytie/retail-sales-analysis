@@ -96,9 +96,11 @@ The Power BI dashboard includes:
 
 ---
 
-### SQL Example - Top Customers
+### SQL Example - CTE and Window Function
 
-![SQL Query](Images/sql_top_customers.png)
+This query uses a Common Table Expression (CTE) together with a window function to rank customers based on total revenue. It demonstrates advanced SQL techniques for business analysis and customer performance evaluation.
+
+![CTE and Window Function](Images/sql_cte_window_function.png)
 
 ---
 
